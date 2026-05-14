@@ -46,7 +46,7 @@
 
 ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sabrina632&layout=compact&hide_border=true&title_color=d98ca0&text_color=8b5e83&bg_color=fff0f5)
 
-![trofeus](https://github-profile-trophy.vercel.app/?username=Sabrina632&theme=flat&no-frame=true&column=7&margin-w=10&title_color=d98ca0)
+![trofeus](https://github-profile-trophy.vercel.app/?username=Sabrina632&theme=flat&no-frame=true&column=7&margin-w=10&title_color=d98ca0&rank=SECRET,SSS,SS,S)
 
 </div>
 
