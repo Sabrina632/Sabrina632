@@ -26,6 +26,7 @@
 ### ✿ tecnologias
 
 ![C#](https://img.shields.io/badge/C%23-ffd1dc?style=flat-square&logo=csharp&logoColor=8b5e83)
+![Java](https://img.shields.io/badge/Java-e0ffd1?style=flat-square&logo=openjdk&logoColor=8b5e83)
 ![.NET](https://img.shields.io/badge/.NET-e6e6fa?style=flat-square&logo=dotnet&logoColor=8b5e83)
 ![Docker](https://img.shields.io/badge/Docker-d1e7ff?style=flat-square&logo=docker&logoColor=8b5e83)
 ![Git](https://img.shields.io/badge/Git-ffe0e9?style=flat-square&logo=git&logoColor=8b5e83)
