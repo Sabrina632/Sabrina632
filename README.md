@@ -11,7 +11,7 @@
 ### ✿ sobre mim
 
 ```
-🍡  trabalho com C# .NET/ Python Java / e adoro fazer bots
+🍡  trabalho com C# .NET/ Python / Java / e adoro fazer bots
 🌷  curto deixar tudo organizado
 🫧  sempre aprendendo algo novo
 ```
