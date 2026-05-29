@@ -33,10 +33,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-f5e1ff?style=flat-square&logo=github&logoColor=8b5e83)
 ![Rider](https://img.shields.io/badge/Rider-fff0d1?style=flat-square&logo=rider&logoColor=8b5e83)
 
-### ✿ projetinhos
-
-🤖 **[ChiBot](https://github.com/Sabrina632/ChiBot)** — um bot de Discord feito com carinho em C#, com suporte a múltiplos idiomas e pronto pra rodar em Docker
-
 ### ✿ minhas estatísticas
 
 <div align="center">
