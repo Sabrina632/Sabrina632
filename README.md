@@ -2,7 +2,7 @@
 
 # ⋆｡˚ ☁︎ ˚｡⋆｡˚☽˚｡⋆ olá, eu sou a Sabrina ⋆｡˚☾˚｡⋆｡˚☁︎ ˚｡⋆
 
-🌸 *desenvolvedora · apaixonada por código* 🌸
+🌸 *desenvolvedora* 🌸
 
 </div>
 
