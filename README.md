@@ -12,8 +12,6 @@
 
 ```
 🍡  trabalho com C# .NET/ Python / Java /
-🌷  curto deixar tudo organizado
-🫧  sempre aprendendo algo novo
 ```
 
 ### ✿ aprendendo agora
