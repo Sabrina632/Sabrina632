@@ -39,7 +39,9 @@
 
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=Sabrina632&hide_border=true&background=fff0f5&ring=d98ca0&fire=d98ca0&currStreakLabel=8b5e83&sideLabels=8b5e83&dates=b89aa3&stroke=d98ca0)
 
-![trofeus](https://github-profile-trophy.vercel.app/?username=Sabrina632&theme=flat&no-frame=true&column=7&margin-w=10&title_color=d98ca0&rank=SECRET,SSS,SS,S)
+![stats](https://github-readme-stats.vercel.app/api?username=Sabrina632&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=fff0f5&title_color=d98ca0&text_color=8b5e83&icon_color=d98ca0)
+
+![linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Sabrina632&layout=compact&langs_count=8&hide_border=true&bg_color=fff0f5&title_color=d98ca0&text_color=8b5e83)
 
 </div>
 
