@@ -47,8 +47,8 @@
 
 ### ✿ me encontre por aí
 
-[![GitHub](https://img.shields.io/badge/GitHub-Sabrina632-ffd1dc?style=flat-square&logo=github&logoColor=8b5e83)](https://github.com/Sabrina632)
-![Discord](https://img.shields.io/badge/Discord-ariii930__-e6e6fa?style=flat-square&logo=discord&logoColor=8b5e83)
+[![GitHub](https://img.shields.io/badge/GitHub-Sabrina632-ffd1dc?style=for-the-badge&logo=github&logoColor=8b5e83&labelColor=fff0f5)](https://github.com/Sabrina632)
+[![Discord](https://img.shields.io/badge/Discord-ariii930__-e6e6fa?style=for-the-badge&logo=discord&logoColor=8b5e83&labelColor=fff0f5)](https://discord.com/users/)
 
 </div>
 
